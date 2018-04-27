@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/model/Rectangle.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/NewJFrame.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/model/Shape.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/model/Line.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/model/Triangle.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/controller/Functions.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/model/Circle.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/controller/DrawingEngine.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/model/AbsShape.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/model/Square.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/model/Ellipse.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/controller/Originator.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/model/NShape.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/controller/Memento.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/controller/Caretaker.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/controller/SaveLoad.java</file>
+            <file>file:/C:/Users/Fayez/Documents/NetBeansProjects/Paint/src/paint/controller/Json.java</file>
+        </group>
+    </open-files>
+</project-private>
